@@ -42,7 +42,7 @@ const social = [
     name: "Instagram",
     icon: "instagram",
     link: "https://www.instagram.com/m.man9our/",
-  }
+  },
 ];
 
 const home = {
@@ -63,7 +63,9 @@ const home = {
   },
   subline: (
     <>
-      I'm Mohammad, a software engineer specializing in building high-performance web and mobile applications using technologies like React, Next.js, React Native.
+      I'm Mohammad, a software engineer specializing in building
+      high-performance web and mobile applications using technologies like
+      React, Next.js, React Native.
       <br /> Let's build something amazing together.
     </>
   ),
@@ -90,10 +92,13 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Mohammad Mansour is a Nablus-based frontend engineer with over 2 years
-        of experience building fast, accessible, and responsive web and mobile
-        applications. He thrives on solving complex UI challenges and crafting
-        intuitive user experiences using modern JavaScript frameworks.
+        I'm a web and mobile engineer with over 2 years of experience building
+        fast, accessible, and responsive applications. I specialize in
+        performance-optimized, accessible web applications using modern
+        technologies like React, Next.js, Remix, and TailwindCSS. On the mobile
+        side, I build cross-platform apps for iOS and Android, primarily with
+        React Native. I also work with backend technologies, building RESTful
+        APIs, GraphQL endpoints, and real-time features — mostly using Node.js.
       </>
     ),
   },
