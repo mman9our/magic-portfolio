@@ -29,6 +29,7 @@ import {
   FaX,
   FaThreads,
   FaInstagram,
+  FaNpm,
 } from "react-icons/fa6";
 
 export const iconLibrary: Record<string, IconType> = {
@@ -51,6 +52,7 @@ export const iconLibrary: Record<string, IconType> = {
   x: FaX,
   threads: FaThreads,
   instagram: FaInstagram,
+  npm: FaNpm,
   arrowUpRightFromSquare: HiArrowTopRightOnSquare,
   document: HiOutlineDocument,
   rocket: HiOutlineRocketLaunch,

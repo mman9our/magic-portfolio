@@ -148,20 +148,20 @@ const mailchimp = {
       colorEnd: "static-transparent",
     },
     dots: {
-      display: true,
+      display: false,
       opacity: 20,
       size: "2",
       color: "brand-on-background-weak",
     },
     grid: {
-      display: true,
+      display: false,
       opacity: 100,
       color: "neutral-alpha-medium",
       width: "0.25rem",
       height: "0.25rem",
     },
     lines: {
-      display: true,
+      display: false,
       opacity: 100,
       color: "neutral-alpha-medium",
       size: "16",

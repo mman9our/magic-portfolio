@@ -43,6 +43,11 @@ const social = [
     icon: "instagram",
     link: "https://www.instagram.com/m.man9our/",
   },
+  {
+    name: "NPM",
+    icon: "npm",
+    link: "https://www.npmjs.com/~mman9our",
+  },
 ];
 
 const home = {
